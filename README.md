@@ -1,6 +1,6 @@
 # Asifa Hamid Khan | Software Engineer Portfolio
 
-Welcome to my portfolio website! This is a personal, fully responsive one-page site built to showcase my skills, projects, education, and achievements as a software engineer specializing in AI, ML, and full-stack development.
+Welcome to my portfolio website! This is a personal, fully responsive one-page site built to showcase my skills, projects, education, and achievements as a software engineer specializing in AI, ML
 
 ---
 
