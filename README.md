@@ -60,16 +60,10 @@ aatkacv.pdf.pdf # Resume PDF
 
 ## 🌐 Live Demo
 
-> _You can deploy this portfolio directly on [GitHub Pages](https://pages.github.com/) or any other static site hosting service._
-
+> _You can deploy this portfolio directly on https://asiiifa.github.io/Asifa-Portfolio/
 ---
 
-## 📷 Screenshots
 
-![Portfolio Screenshot](./screenshot.png)
-> _Add a screenshot for a preview!_
-
----
 
 ## 🤝 Connect
 
